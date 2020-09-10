@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 
 
 
-
 [website]: https://pablolago.es
 [twitter]: https://twitter.com/PabIoLago
 [youtube]: https://youtube.com/c/PabloLago
