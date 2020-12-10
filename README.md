@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [![L4g0's github stats](https://github-readme-stats.vercel.app/api?username=L4g0)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4g0)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="pablolago.es" width="22px" src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/favicon/apple-touch-icon-60x60.png" />][website]
