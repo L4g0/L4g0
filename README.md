@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning stuff
 - 📫 How to reach me: [@PabIoLago](https://twitter.com/PabIoLago)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: no
+<!-- - ⚡ Fun fact: no -->
 
 [![L4g0's github stats](https://github-readme-stats.vercel.app/api?username=L4g0)](https://github.com/anuraghazra/github-readme-stats)
 
