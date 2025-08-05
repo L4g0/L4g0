@@ -1,4 +1,4 @@
-### Hi there, I'm Pablo Lago 👋 ([Website][website])
+### Hi there, I'm Pablo Lago 👋
 
 <!--
 **L4g0/L4g0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [@PabIoLago](https://twitter.com/PabIoLago)
+- 📫 How to reach me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Acoustics
 - 👯 I’m looking to collaborate on Sound Engineering projects
 - 🤔 I’m looking for help with Machine Learning stuff
-- 📫 How to reach me: [@PabIoLago](https://twitter.com/PabIoLago)
+<!--- 📫 How to reach me: -->
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: no -->
 
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="pablolago.es" width="22px" src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/favicon/apple-touch-icon-60x60.png" />][website]
 [<img align="left" alt="PabloLago | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="PabIoLago | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PabIoLago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pabiolago | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PabloLag0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="pabiolago | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 
 <br />
@@ -50,7 +50,5 @@ Here are some ideas to get you started:
 
 
 [website]: https://pablolago.es
-[twitter]: https://twitter.com/PabIoLago
 [youtube]: https://youtube.com/c/PabloLago
-[instagram]: https://instagram.com/pabiolago
-[linkedin]: https://linkedin.com/in/pabiolago
+[linkedin]: https://linkedin.com/in/PabloLag0
