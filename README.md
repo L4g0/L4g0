@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Acoustics
 - 👯 I’m looking to collaborate on Sound Engineering projects
 - 🤔 I’m looking for help with Machine Learning stuff
-<!--- 📫 How to reach me: -->
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: no -->
 
