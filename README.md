@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="pablolago.es" width="22px" src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/favicon/apple-touch-icon-60x60.png" />][website]
-[<img align="left" alt="PabloLago | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="PabIoLago | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="PabloLag0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="pabiolago | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PabIoLago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -50,5 +47,4 @@ Here are some ideas to get you started:
 
 
 [website]: https://pablolago.es
-[youtube]: https://youtube.com/c/PabloLago
-[linkedin]: https://linkedin.com/in/PabloLag0
+[linkedin]: https://linkedin.com/in/pabiolago
